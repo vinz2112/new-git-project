@@ -22,3 +22,11 @@ branch 'master' set up to track 'https://github.com/vinz2112/new-git-project.git
 vincent (master) new-git-project
 .
 
+# 
+Q : CAN I DO THE ABOVE CMD WITH "MAIN" AT THE END INSTEAD OF 'MASTER' ???
+
+
+
+# tue07mar2023
+
+# 
