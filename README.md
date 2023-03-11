@@ -5,4 +5,5 @@
 
 # sat11mar2023 :
 - 1 change = so can re-commit
+- another change = so can try 'vim' (x : '-m "msg"') way
 - 
