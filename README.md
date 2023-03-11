@@ -3,10 +3,11 @@
 - some more blah
 - 
 
+# 
 git push --set-upstream https://github.com/vinz2112/new-git-project.git master
 
 it works (now have made email X private) :
-.
+
 vincent (master) new-git-project
 $ git push --set-upstream https://github.com/vinz2112/new-git-project.git master
 Enumerating objects: 6, done.
@@ -20,13 +21,9 @@ To https://github.com/vinz2112/new-git-project.git
  * [new branch]      master -> master
 branch 'master' set up to track 'https://github.com/vinz2112/new-git-project.git/master'.
 vincent (master) new-git-project
-.
 
-# 
 Q : CAN I DO THE ABOVE CMD WITH "MAIN" AT THE END INSTEAD OF 'MASTER' ???
-
-
 
 # tue07mar2023
 
-# 
+# sat11mar2023 :
